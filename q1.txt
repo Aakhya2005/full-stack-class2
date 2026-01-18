@@ -1,0 +1,7 @@
+echo "welcome"
+
+name="Aakhya"
+age="21"
+college="GLA University"
+
+echo "My name is $name and my age is $age and currently i am pershuing in $college"
