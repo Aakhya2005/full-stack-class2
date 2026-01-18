@@ -1,5 +1,11 @@
-//print the from the array
+//print the no. from the array
 for i in 1 2 3 4 5
 do
 echo "Number $i"
+done
+
+//print the no. from 1 to 10;
+for i in {1..10}
+do
+echo "number $i"
 done
