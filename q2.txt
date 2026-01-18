@@ -1,0 +1,7 @@
+echo "my name is $name and i am from $city and my favorite color is $color"
+
+echo "enter the first no."
+read first_no
+echo "enter the second no."
+read sec_no
+echo "the sum of the no. are $(($first_no + $sec_no))"
